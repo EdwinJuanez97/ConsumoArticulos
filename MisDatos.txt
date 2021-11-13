@@ -1,0 +1,6 @@
+5.       Dentro del proyecto debe incluir un archivo txt indicando lo siguiente:
+
+a.       Sección :                    1900
+b.       Nombre completo:    Edwin Jahir Juanez Ayala
+c.       Numero de cuenta:   20151021577
+d.       Numero de grupo:     #5
